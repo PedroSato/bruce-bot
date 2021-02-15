@@ -1,0 +1,29 @@
+{
+  "name": "bruce-bot",
+  "version": "1.0.0",
+  "description": "bruce discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroSato/bruce-bot.git"
+  },
+  "keywords": [
+    "bruce",
+    "discord",
+    "bot"
+  ],
+  "author": "Pedro Sato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroSato/bruce-bot/issues"
+  },
+  "homepage": "https://github.com/PedroSato/bruce-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
